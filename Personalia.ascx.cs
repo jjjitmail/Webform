@@ -2,11 +2,11 @@
 using System.Web;
 using System.Web.UI;
 using System.Web.Security;
-using Omegam.Framework.BE;
-using Omegam.Framework.BL;
-using Omegam.Framework.UI;
+using nnn.Framework.BE;
+using nnn.Framework.BL;
+using nnn.Framework.UI;
 using System.Linq;
-using Omegam.Framework.Base;
+using nnn.Framework.Base;
 
 public partial class UserControls_Personalia : System.Web.UI.UserControl
 {
